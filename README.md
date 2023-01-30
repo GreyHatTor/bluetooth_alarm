@@ -14,4 +14,4 @@ Usage:
   python3 bt2.py
   ```
   Note: Make sure the "beep.wav" file is located in the home folder.
-  You can contact the dev team regarding any queries...! Happy coding :)
+  You can contact the dev regarding any queries...! Happy coding :)
